@@ -1,1 +1,1 @@
-# QLoRA-Finetuning-for-Film-Character-Styled-Responses-from-LLM
+# QLoRA-Fine-tuning-for-Film-Character-Styled-Responses-from-LLM
